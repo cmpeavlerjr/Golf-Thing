@@ -1,3 +1,7 @@
+const url = 'https://cors-anywhere.herokuapp.com/http://api.sportradar.us/golf/trial/pga/v3/en/2021/tournaments/1dd9d68d-dcdf-4238-a82b-ed2077ea799d/leaderboard.json?api_key=kpd2wmgkp3dzbqz7r8jwzgau';
+
+
+
 import './App.css';
 import Container from 'react-bootstrap/Container';
 import background1 from './Images/ANGC.jpg';
